@@ -23,7 +23,7 @@ class References(HTMLParser):
         self.assets = set()
     def handle_starttag(self, tag, attrs):
         for key, value in attrs:
-            if key in ('src', 'href', 'data-src') and value and value.startswith('nails-assets/'):
+            if key in ('src', 'href', 'data-src', 'poster') and value and value.startswith('nails-assets/'):
                 self.assets.add(value)
 
 def validate():
@@ -42,13 +42,15 @@ def validate():
         assert re.fullmatch(r'[A-Za-z0-9_./-]+', relative), f'Unsupported filename: {relative}'
     return page, [path for path in assets if path.is_file()]
 
-def fetch_equal(url, expected, image=False):
+def fetch_equal(url, expected, image=False, video=False):
     for attempt in range(3):
         try:
             with urlopen(url, timeout=30) as response:
                 assert response.status == 200, f'HTTP error: {url}'
                 if image:
                     assert response.headers.get_content_type().startswith('image/'), f'Not an image: {url}'
+                if video:
+                    assert response.headers.get_content_type().startswith('video/'), f'Not a video: {url}'
                 assert response.read() == expected, f'Content mismatch: {url}'
             return
         except Exception:
@@ -90,7 +92,7 @@ def main():
                f'find {ROOT}/{asset_dir} -type f -exec chmod 644 {{}} +')
         for asset in assets:
             relative = asset.relative_to(SITE / 'nails-assets').as_posix()
-            fetch_equal(URL + asset_dir + '/' + relative, asset.read_bytes(), image=True)
+            fetch_equal(URL + asset_dir + '/' + relative, asset.read_bytes(), image=asset.suffix.lower() != '.mp4', video=asset.suffix.lower() == '.mp4')
         local_page = tmp / 'index.html'
         local_page.write_bytes(new_page)
         run(['scp', *common, str(local_page), HOST + ':' + stage])
