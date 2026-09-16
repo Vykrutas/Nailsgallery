@@ -1,0 +1,310 @@
+[
+  {
+    "id": "021",
+    "media": [
+      {
+        "type": "image",
+        "src": "nails-assets/work-021-1.webp",
+        "poster": "nails-assets/work-021-1.webp"
+      }
+    ],
+    "title": "Чёрный френч с характером",
+    "description": "Нежная розовая основа, чёрные кончики и серебристые акценты. Контрастный френч с выразительными деталями.",
+    "category": "art"
+  },
+  {
+    "id": "020",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-020-1.mp4",
+        "poster": "nails-assets/work-020-1.webp"
+      }
+    ],
+    "title": "Графика в движении",
+    "description": "Чёрно-белые спирали, абстрактные линии и розовый акцент. Каждый ноготь — отдельная маленькая композиция.",
+    "category": "art"
+  },
+  {
+    "id": "019",
+    "media": [
+      {
+        "type": "image",
+        "src": "nails-assets/work-019-2.webp",
+        "poster": "nails-assets/work-019-2.webp"
+      }
+    ],
+    "title": "Тихое сияние",
+    "description": "Полупрозрачный нюд и деликатный блеск на мягкой миндалевидной форме. Лёгкий дизайн на каждый день.",
+    "category": "minimal"
+  },
+  {
+    "id": "018",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-018-1.mp4",
+        "poster": "nails-assets/work-018-1.webp"
+      }
+    ],
+    "title": "Красный жест",
+    "description": "Красные, белые и тёмные акценты на вытянутой форме. Смелое сочетание цвета и графики.",
+    "category": "art"
+  },
+  {
+    "id": "017",
+    "media": [
+      {
+        "type": "image",
+        "src": "nails-assets/work-017-1.webp",
+        "poster": "nails-assets/work-017-1.webp"
+      }
+    ],
+    "title": "Френч в полный рост",
+    "description": "Длинный квадрат и широкая белая линия улыбки. Классический контраст в максимально выразительной форме.",
+    "category": "minimal"
+  },
+  {
+    "id": "016",
+    "media": [
+      {
+        "type": "image",
+        "src": "nails-assets/work-016-1.webp",
+        "poster": "nails-assets/work-016-1.webp"
+      }
+    ],
+    "title": "Нюд с острым акцентом",
+    "description": "Прозрачный бежево-розовый тон и заострённая форма. Тонкие светлые детали подчёркивают силуэт.",
+    "category": "minimal"
+  },
+  {
+    "id": "015",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-015-1.mp4",
+        "poster": "nails-assets/work-015-1.webp"
+      }
+    ],
+    "title": "Дымчатая графика",
+    "description": "Полупрозрачная основа с тёмными вытянутыми акцентами. Дизайн раскрывается при движении рук.",
+    "category": "art"
+  },
+  {
+    "id": "014",
+    "media": [
+      {
+        "type": "image",
+        "src": "nails-assets/work-014-1.webp",
+        "poster": "nails-assets/work-014-1.webp"
+      },
+      {
+        "type": "image",
+        "src": "nails-assets/work-014-2.webp",
+        "poster": "nails-assets/work-014-2.webp"
+      }
+    ],
+    "title": "Розовый лимонад",
+    "description": "Розовые и жёлтые оттенки, прозрачные слои и объёмные детали. Яркий дизайн с летним настроением.",
+    "category": "art"
+  },
+  {
+    "id": "013",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-013-1.mp4",
+        "poster": "nails-assets/work-013-1.webp"
+      },
+      {
+        "type": "video",
+        "src": "nails-assets/work-013-2.mp4",
+        "poster": "nails-assets/work-013-2.webp"
+      }
+    ],
+    "title": "Ледяной свет",
+    "description": "Холодные голубые переливы на длинной форме. Прозрачность и фактура создают ощущение хрупкого льда.",
+    "category": "art"
+  },
+  {
+    "id": "012",
+    "media": [
+      {
+        "type": "image",
+        "src": "nails-assets/work-012-1.webp",
+        "poster": "nails-assets/work-012-1.webp"
+      }
+    ],
+    "title": "Серебряная буря",
+    "description": "Серебристые и дымчатые оттенки на длинном квадрате. Контрастные фактуры и объёмные акценты.",
+    "category": "art"
+  },
+  {
+    "id": "011",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-011-1.mp4",
+        "poster": "nails-assets/work-011-1.webp"
+      }
+    ],
+    "title": "Металл в миниатюре",
+    "description": "Короткая длина, серебристое сияние и тёмные акценты. Выразительный дизайн в компактной форме.",
+    "category": "art"
+  },
+  {
+    "id": "010",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-010-1.mp4",
+        "poster": "nails-assets/work-010-1.webp"
+      }
+    ],
+    "title": "Розовый хром",
+    "description": "Розовая основа и металлические детали на вытянутой форме. Мягкий цвет встречается с холодным блеском.",
+    "category": "art"
+  },
+  {
+    "id": "009",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-009-1.mp4",
+        "poster": "nails-assets/work-009-1.webp"
+      },
+      {
+        "type": "video",
+        "src": "nails-assets/work-009-2.mp4",
+        "poster": "nails-assets/work-009-2.webp"
+      }
+    ],
+    "title": "Розовый рельеф",
+    "description": "Длинная заострённая форма, насыщенный розовый и светлые объёмные узоры. Дизайн, который хочется рассмотреть ближе.",
+    "category": "art"
+  },
+  {
+    "id": "008",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-008-1.mp4",
+        "poster": "nails-assets/work-008-1.webp"
+      }
+    ],
+    "title": "Бордовый и серебро",
+    "description": "Глубокий бордовый чередуется с серебристыми акцентами. Светлые декоративные детали собирают композицию.",
+    "category": "art"
+  },
+  {
+    "id": "007",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-007-1.mp4",
+        "poster": "nails-assets/work-007-1.webp"
+      }
+    ],
+    "title": "Мятный френч",
+    "description": "Светло-зелёные кончики, нежная основа и тонкий блеск. Свежая вариация французского маникюра.",
+    "category": "minimal"
+  },
+  {
+    "id": "006",
+    "media": [
+      {
+        "type": "image",
+        "src": "nails-assets/work-006-1.webp",
+        "poster": "nails-assets/work-006-1.webp"
+      }
+    ],
+    "title": "Морская волна",
+    "description": "Бирюзовый цвет и белые текучие узоры на квадратной форме. Настроение воды, пены и солнечного дня.",
+    "category": "art"
+  },
+  {
+    "id": "005",
+    "media": [
+      {
+        "type": "image",
+        "src": "nails-assets/work-005-1.webp",
+        "poster": "nails-assets/work-005-1.webp"
+      },
+      {
+        "type": "image",
+        "src": "nails-assets/work-005-2.webp",
+        "poster": "nails-assets/work-005-2.webp"
+      }
+    ],
+    "title": "Голубая дымка",
+    "description": "Светлая голубая палитра, прозрачные слои и фактурные детали. Воздушный дизайн с мягкими переливами.",
+    "category": "art"
+  },
+  {
+    "id": "004",
+    "media": [
+      {
+        "type": "image",
+        "src": "nails-assets/work-004-1.webp",
+        "poster": "nails-assets/work-004-1.webp"
+      }
+    ],
+    "title": "Пастельная палитра",
+    "description": "Разноцветные кончики и лёгкие декоративные акценты. Несколько нежных оттенков в одном маникюре.",
+    "category": "art"
+  },
+  {
+    "id": "003",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-003-1.mp4",
+        "poster": "nails-assets/work-003-1.webp"
+      },
+      {
+        "type": "image",
+        "src": "nails-assets/work-003-2.webp",
+        "poster": "nails-assets/work-003-2.webp"
+      }
+    ],
+    "title": "Серебряные облака",
+    "description": "Дымчатые серые переходы и серебристые детали. Свет и тень создают глубину на каждом ногте.",
+    "category": "art"
+  },
+  {
+    "id": "002",
+    "media": [
+      {
+        "type": "video",
+        "src": "nails-assets/work-002-1.mp4",
+        "poster": "nails-assets/work-002-1.webp"
+      },
+      {
+        "type": "image",
+        "src": "nails-assets/work-002-2.webp",
+        "poster": "nails-assets/work-002-2.webp"
+      }
+    ],
+    "title": "Цветная улыбка",
+    "description": "Нюдовая основа и яркие разноцветные линии френча. Лаконичная форма с игривым настроением.",
+    "category": "minimal"
+  },
+  {
+    "id": "001",
+    "media": [
+      {
+        "type": "image",
+        "src": "nails-assets/work-001-1.webp",
+        "poster": "nails-assets/work-001-1.webp"
+      },
+      {
+        "type": "image",
+        "src": "nails-assets/work-001-2.webp",
+        "poster": "nails-assets/work-001-2.webp"
+      }
+    ],
+    "title": "Молочная классика",
+    "description": "Ровное молочное покрытие и мягкая овальная форма. Спокойный маникюр с чистым глянцевым блеском.",
+    "category": "minimal"
+  }
+]
